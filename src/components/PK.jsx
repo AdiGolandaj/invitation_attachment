@@ -9,7 +9,7 @@ const pramod = () => {
           <div
             className="absolute inset-0  object-center bg-blue-400 bg-opacity-30 bg-cover bg-bottom"
             style={{
-              backgroundImage: "url('./img/pramodKumar.png')",
+              backgroundImage: "url('./img/PKshri.png')",
               backgroundSize: "cover",
               backgroundPosition: "top center",
               backgroundBlendMode: "multiply",

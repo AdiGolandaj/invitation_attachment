@@ -12,6 +12,9 @@ export default {
         'Dblu':'#0A3981',
         'ora':'#E38E49',
       },
+      fontSize: {
+        'custom-xs': '12.25px',
+      }
     },
   },
   plugins: [],

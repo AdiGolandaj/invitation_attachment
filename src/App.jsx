@@ -1,6 +1,7 @@
 import React from 'react';
 import Hero from './components/Hero.jsx';
 import WavebelHero from './components/wavebelHero.jsx';
+import PK from './components/PK.jsx'
 import Pramod from './components/pramod.jsx'
 
 const App = () => {
@@ -10,7 +11,7 @@ const App = () => {
 <!-- intropage to show isbm coe --> */}
       <Hero />
       <WavebelHero />
-      <Pramod />
+      
 {/*show all the branches of ISBM and info about coe -->
   <!-- info about coe includes:- 
   . affiliations
@@ -18,11 +19,11 @@ const App = () => {
   . achievements */}
       
 {/*  founder introduction */}
-    
+      <Pramod />
 
 
 {/* <!-- principal intro --> */}
-
+      <PK />
 
 {/* <!-- alumni Introduction --> */}
 
