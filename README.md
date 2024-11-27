@@ -1,8 +1,7 @@
-# React + Vite
+# INVITATION ATTACHMENT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an idea that i wanted to execute for a while and will act as a live project and as a stepping stone for me to learn react and tailwind css.
+The reason behind creating this is that i wanted a good mail attachment that'll make me more hireable (ikr lame af). But the another reason is that this will serve as an invitation page sent to the HR's from the Training and Placement Cell of my College. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### initial commit (27/11/24)
+this commit consists of a Hero section designed a day prior and an introduction to our president and principal.
