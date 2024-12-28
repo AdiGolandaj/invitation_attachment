@@ -8,7 +8,8 @@ const App = () => {
   return (
     <main>
 {/* <!-- hero -->
-<!-- intropage to show isbm coe --> */}
+<!-- intropage to show isbm coe --> 
+. Include the name of COE in this.*/}
       <Hero />
       <WavebelHero />
       

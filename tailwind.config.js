@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {
+      height: {
+        '15': '90px',
+        '17': '100px'
+      },
       colors : {
         'lblu': '#D4EBF8',
         'dblu':'#1F509A',
@@ -14,6 +18,8 @@ export default {
       },
       fontSize: {
         'custom-xs': '12.25px',
+        'custom-4.5xl': '40px',
+        'custom-5.5xl': '80px'
       }
     },
   },
