@@ -3,6 +3,7 @@ import Hero from './components/Hero.jsx';
 import WavebelHero from './components/wavebelHero.jsx';
 import PK from './components/PK.jsx'
 import Pramod from './components/pramod.jsx'
+import Contacts from './components/Contacts.jsx' 
 
 const App = () => {
   return (
@@ -30,7 +31,7 @@ const App = () => {
 {/* <!-- alumni Introduction --> */}
 
 {/* <!-- Contact details --> */}
-
+      <Contacts/>
     </main>
   )
 }
