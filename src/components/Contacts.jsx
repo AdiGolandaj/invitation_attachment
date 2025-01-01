@@ -3,7 +3,7 @@ import React from 'react'
 // this requires a lot more changes but we have finalized this current design deploy# 6
 const Contacts = () => {
   return (
-    <body class="min-h-screen bg-gray-100 flex items-center justify-center p-6">
+    <body class=" bg-gray-100 flex items-center justify-center p-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 w-full">
     
     <div class="bg-white rounded-lg shadow p-7">

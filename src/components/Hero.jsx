@@ -8,7 +8,7 @@ const Hero = () => {
             <img src="./img/NAACBpplogo.png" alt="" className='h-24 md:h-44 lg:h-52 w-auto rounded-lg' />
             <img src="./img/ISBMlogo.jpeg" alt="" className='h-24 md:h-44 lg:h-52 w-auto rounded-lg animate-toRight ease-in-out' />
         </div>
-        <h1 class="font-serif xl:text-9xl lg:text-8xl md:text-6xl text-6xl text-center">
+        <h1 class="font-serif xl:text-9xl lg:text-8xl md:text-6xl text-5xl text-center">
             <span class="font-extrabold text-teal-700">I</span>
             <span>nternational </span>
             <span class="font-extrabold text-teal-700">S</span>

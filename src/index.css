@@ -4,5 +4,6 @@
 
 body, html {
     overflow-x: hidden; /* Prevent horizontal scrolling globally */
+    background-color: #f3f4f6;
 }
   
