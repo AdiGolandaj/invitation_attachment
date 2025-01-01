@@ -6,6 +6,30 @@ export default {
   ],
   theme: {
     extend: {
+      keyframes:{
+        'toLeft':{
+          '0%':{
+            transform: 'translate(110%)',
+            zIndex: '10'
+          },
+          '100%':{
+            transform: 'translate(0%)',
+            zIndex:'10'
+          }
+        },
+        'toRight':{
+          '0%':{
+            transform: 'translate(-110%)',
+          },
+          '100%':{
+            transform: 'translate(0%)'
+          }
+        }
+      },
+      animation:{
+        'toLeft':'toLeft 1s linear',
+        'toRight':'toRight 1s linear'
+      },
       height: {
         '15': '90px',
         '17': '100px'
@@ -23,5 +47,5 @@ export default {
       }
     },
   },
-  plugins: [],
+  plugins: [require("tailwindcss-animate")],
 }

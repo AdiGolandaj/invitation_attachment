@@ -2,7 +2,7 @@ import React from 'react'
 
 const pramod = () => {
   return (
-    <div className="container mx-auto p-7 ">
+    <div className="container mx-auto p-7 bg-gray-100">
       <div className="relative rounded-lg flex flex-col md:flex-row items-center md:shadow-xl md:h-72 mx-2">
         {/* Image Section */}
         <div className="z-0 order-1 md:order-2 relative w-full md:w-2/5 h-80 md:h-full overflow-hidden rounded-lg md:rounded-none md:rounded-r-lg">
@@ -44,7 +44,7 @@ const pramod = () => {
                 Dr. Pramod Kumar
             </h3>
             <p className="text-gray-600 text-justify md:text-custom-xs lg:text-sm xl:text-base 2xl:text-lg">
-            Dr. Pramod Kumar holds a Ph.D. in Organizational Behaviour from IIT Mumbai. Having previously worked with IIM Ahmedabad, he also consulted for over 80 companies worldwide. An author of over 100 research papers, cases, and management games, his work is quoted internationally in textbooks and journals. Served on Government of India committees on management education.</p>
+            Dr. Pramod Kumar holds a Ph.D. in Organizational Behaviour from IIT Mumbai. Having previously worked with IIM Ahmedabad, he also consulted for over 80 companies worldwide. An author of over 100 research papers, cases, and management games, work quoted internationally in various publiction. Served on Government of India committees on management education.</p>
             <a
               className="flex items-baseline mt-3 text-blue-600 hover:text-blue-900 focus:text-blue-900"
               href="#"

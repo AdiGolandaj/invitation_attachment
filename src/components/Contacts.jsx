@@ -1,5 +1,6 @@
 import React from 'react'
 
+// this requires a lot more changes but we have finalized this current design deploy# 6
 const Contacts = () => {
   return (
     <body class="min-h-screen bg-gray-100 flex items-center justify-center p-6">
